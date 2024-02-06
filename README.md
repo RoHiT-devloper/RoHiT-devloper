@@ -39,15 +39,11 @@ I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate stud
 
 ## Contact Me
 
-- **LinkedIn**: [John Doe](https://www.linkedin.com/in/johndoe)
-- **Email**: johndoe@email.com
+- **LinkedIn**: [Rohit Dutta](https://www.linkedin.com/in/m-rohit-dutta)
+- **Email**: rohitdutta2212rd@gmail.com
 - **Portfolio Website**: [www.johndoe.com](https://www.johndoe.com)
 
 ## Additional Information
 
 - **Languages**: English (fluent), Spanish (intermediate)
 - **Availability**: Open to new opportunities and collaborations. Feel free to reach out for projects, job opportunities, or just to connect!
-
-## License
-
-This portfolio is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
