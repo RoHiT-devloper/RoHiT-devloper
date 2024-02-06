@@ -1,8 +1,8 @@
-# John Doe's Portfolio
+# Rohit Dutta's Portfolio
 
 ## About Me
 
-I'm John Doe, a passionate Master in Computer Application (MCA) graduate student with a keen interest in cloud technologies, particularly AWS and Azure. I have a solid understanding of various computer technologies and a strong foundation in software development.
+I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate student with a keen interest in cloud technologies, particularly AWS and Azure. I have a solid understanding of various computer technologies and a strong foundation in software development.
 
 ## Skills
 
