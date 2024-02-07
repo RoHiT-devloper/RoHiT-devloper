@@ -30,7 +30,9 @@ I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate stud
 ## Education
 
 - **Master of Computer Applications (MCA)**
-  - University of XYZ, Graduated: May 2022
+  - Chandigarh University, Ongoing
+- **Bachelor of Computer Application (BCA)**
+  - Amity University, Graduated: May 2022
 
 ## Certifications
 
