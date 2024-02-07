@@ -43,7 +43,6 @@ I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate stud
 
 - **LinkedIn**: [Rohit Dutta](https://www.linkedin.com/in/m-rohit-dutta)
 - **Email**: rohitdutta2212rd@gmail.com
-- **Portfolio Website**: [www.johndoe.com](https://www.johndoe.com)
 
 ## Additional Information
 
