@@ -23,9 +23,6 @@ I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate stud
 - **Description**: The Cab Share web application, built using PHP, facilitates ride-sharing by connecting users with similar routes, optimizing travel costs, and promoting eco-friendly commuting.
 - **GitHub Repository**: [Cab Sharing](https://github.com/RoHiT-devloper/Cab_Booking_System_Backend.git)
 
-### 3. Online Bookstore
-- **Description**: Created a full-stack online bookstore application using Node.js, Express.js, MongoDB, and Angular.
-- **GitHub Repository**: [Online Bookstore](https://github.com/johndoe/online-bookstore)
 
 ## Education
 
