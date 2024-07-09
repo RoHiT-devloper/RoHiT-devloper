@@ -15,13 +15,13 @@ I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate stud
 
 ## Projects
 
-### 1. Cloud-Based Expense Tracker
-- **Description**: Developed a cloud-based expense tracker application using AWS Lambda, API Gateway, DynamoDB, and React.js.
-- **GitHub Repository**: [Expense Tracker](https://github.com/johndoe/expense-tracker)
+### 1. Education Management System | PHP
+- **Description**: The Education Management System project, developed in PHP, streamlines administrative tasks, student management, and academic processes for educational institutions.
+- **GitHub Repository**: [Education Management System](https://github.com/RoHiT-devloper/education_management_system.git)
 
-### 2. Azure Virtual Machine Management Tool
-- **Description**: Built a tool for managing Azure virtual machines, including provisioning, scaling, and monitoring.
-- **GitHub Repository**: [Azure VM Management](https://github.com/johndoe/azure-vm-management)
+### 2. Cab Sharing Web Application | PHP
+- **Description**: The Cab Share web application, built using PHP, facilitates ride-sharing by connecting users with similar routes, optimizing travel costs, and promoting eco-friendly commuting.
+- **GitHub Repository**: [Cab Sharing](https://github.com/RoHiT-devloper/Cab_Booking_System_Backend.git)
 
 ### 3. Online Bookstore
 - **Description**: Created a full-stack online bookstore application using Node.js, Express.js, MongoDB, and Angular.
@@ -30,7 +30,7 @@ I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate stud
 ## Education
 
 - **Master of Computer Applications (MCA)**
-  - Chandigarh University, Ongoing
+  - Chandigarh University, June 2024
 - **Bachelor of Computer Application (BCA)**
   - Amity University, Graduated: May 2022
 
@@ -46,5 +46,6 @@ I'm Rohit Dutta, a passionate Master in Computer Application (MCA) graduate stud
 
 ## Additional Information
 
-- **Languages**: English (fluent), Spanish (intermediate)
+- **Languages**: English (fluent), Hindi, Bengoli
 - **Availability**: Open to new opportunities and collaborations. Feel free to reach out for projects, job opportunities, or just to connect!
+*
