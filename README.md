@@ -1,6 +1,6 @@
 # Rohit Dutta's Portfolio
 
-# Target Role: Java Developer / Full Stack Developer
+## Target Role: Java Developer / Full Stack Developer
 
 ## Professional Summary
 
