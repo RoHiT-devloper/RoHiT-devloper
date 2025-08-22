@@ -68,4 +68,3 @@ Results-driven Java Developer with strong knowledge in Full Stack Development, C
 
 - **Languages**: English (fluent), Hindi, Bengoli
 - **Availability**: Open to new opportunities and collaborations. Feel free to reach out for projects, job opportunities, or just to connect!
-*
