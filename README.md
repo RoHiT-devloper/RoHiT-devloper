@@ -38,14 +38,6 @@ Results-driven Java Developer with strong knowledge in Full Stack Development, C
 - Developed a responsive frontend with React.js and ensured scalable API performance using Node.js & Express.
 - Optimized data handling with MongoDB for playlist and music metadata.
 
-### 3. Education Management System | PHP
-- **Description**: The Education Management System project, developed in PHP, streamlines administrative tasks, student management, and academic processes for educational institutions.
-- **GitHub Repository**: [Education Management System](https://github.com/RoHiT-devloper/education_management_system.git)
-
-### 4. Cab Sharing Web Application | PHP
-- **Description**: The Cab Share web application, built using PHP, facilitates ride-sharing by connecting users with similar routes, optimizing travel costs, and promoting eco-friendly commuting.
-- **GitHub Repository**: [Cab Sharing](https://github.com/RoHiT-devloper/Cab_Booking_System_Backend.git)
-
 
 ## Education
 
